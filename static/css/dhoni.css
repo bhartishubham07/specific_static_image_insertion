@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+h1{
+    color: red
+}
+img{
+    height: 400px;
+    width: 500px;
+}
